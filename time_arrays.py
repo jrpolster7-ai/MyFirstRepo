@@ -15,3 +15,4 @@ array1 = np.random.randint(1, 7, 10_000_000)
 
 print(f"Process finished --- {(time.time() - start_time_array)} seconds ---")
 
+#This is to upload to github
